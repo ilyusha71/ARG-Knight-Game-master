@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARG-Knight-Game", "ARG-Knight-Game.csproj", "{D71BD78B-CDB0-A490-82AD-E768BE865486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARG-Knight-Game.Plugins", "ARG-Knight-Game.Plugins.csproj", "{8777F2CD-771E-FF6D-E3D4-22D9427E855B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARG-Knight-Game.Editor", "ARG-Knight-Game.Editor.csproj", "{9837CAFE-CAC5-B0C3-9DB5-DED67313E72E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D71BD78B-CDB0-A490-82AD-E768BE865486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71BD78B-CDB0-A490-82AD-E768BE865486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71BD78B-CDB0-A490-82AD-E768BE865486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71BD78B-CDB0-A490-82AD-E768BE865486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8777F2CD-771E-FF6D-E3D4-22D9427E855B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8777F2CD-771E-FF6D-E3D4-22D9427E855B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8777F2CD-771E-FF6D-E3D4-22D9427E855B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8777F2CD-771E-FF6D-E3D4-22D9427E855B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9837CAFE-CAC5-B0C3-9DB5-DED67313E72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9837CAFE-CAC5-B0C3-9DB5-DED67313E72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9837CAFE-CAC5-B0C3-9DB5-DED67313E72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9837CAFE-CAC5-B0C3-9DB5-DED67313E72E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
